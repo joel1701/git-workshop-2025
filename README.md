@@ -2,7 +2,7 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
+  <li> Name: Joel</li>
   <li> Roll Number: </li>
   <li> Branch: </li>
 </ul>
